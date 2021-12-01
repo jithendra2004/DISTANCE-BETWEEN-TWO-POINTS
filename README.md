@@ -13,6 +13,7 @@ substitute the values in the given formula
 
 
 ![formula](formula.jpg)
+
 ### Step 4: 
 display the values
 
@@ -34,3 +35,4 @@ print("{:.2f}".format(dist))
 ![output](ex3.png)
 
 ### RESULT:
+The program is executed

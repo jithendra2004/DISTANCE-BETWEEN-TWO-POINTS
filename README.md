@@ -4,11 +4,20 @@
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
 ### Step 1: 
-### Step 2: 
+Create the program
+### Step 2:
+Assign the values 
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+substitute the values in the given formula
+
+
+
+![formula](formula.jpg)
 ### Step 4: 
+display the values
+
 ### Step 5: 
+end the program
 ### PROGRAM:
 ~~~
 #Program to find the distance between two points.
@@ -22,6 +31,6 @@ print("{:.2f}".format(dist))
 
 ~~~
 ### OUTPUT:
-
+![output](ex3.png)
 
 ### RESULT:

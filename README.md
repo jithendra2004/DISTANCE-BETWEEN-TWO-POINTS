@@ -22,8 +22,8 @@ end the program
 ### PROGRAM:
 ~~~
 #Program to find the distance between two points.
-#Developed by: 
-#RegisterNumber:
+#Developed by:v.a.jithendra
+#RegisterNumber:21005049
 import math
 x=[10,6]
 y=[4,2]
